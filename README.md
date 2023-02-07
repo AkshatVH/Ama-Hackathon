@@ -1,4 +1,4 @@
-#AMA-Hackathon
+AMA-Hackathon
 
 Code for collecting the data is in 1_orientation_classification and is named as Web_scrapping.
 
